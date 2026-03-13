@@ -80,3 +80,14 @@ Feel free to open issues for any bug reports, suggestions, or feature requests. 
 
 You can specify the license of your choice (e.g., MIT, Apache-2.0, etc.). If no license is provided here, the default assumption is “All Rights Reserved.”
 
+
+---
+
+## 🔗 Links
+
+- **Website**: [itallstartedwithaidea.com](https://itallstartedwithaidea.com)
+- **AI-Powered Google Ads**: [googleadsagent.ai](https://googleadsagent.ai)
+- **GitHub**: [@itallstartedwithaidea](https://github.com/itallstartedwithaidea)
+- **LinkedIn**: [in/johnmichaelwilliams](https://linkedin.com/in/johnmichaelwilliams)
+- **Substack**: [itallstartedwithaidea.substack.com](https://itallstartedwithaidea.substack.com)
+
